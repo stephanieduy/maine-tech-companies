@@ -40,14 +40,14 @@ List of tech companies with jobs located in Maine (primarily the greater PWM are
 |Pumpspotting|https://www.pumpspotting.com/jobs|
 |Retail Business Services|https://www.retailbusinessservices.com/careers|
 |RockStep|https://www.rockstepsolutions.com/company/careers/|
-|Slalom|https://www.slalom.com/|
-|TD|https://jobs.td.com/en/|
-|The Jackson Laboratory |http://www.jax.org|
+|Slalom|https://www.slalom.com/us/en/careers|
+|TD|https://careers.td.com/|
+|The Jackson Laboratory |https://www.jax.org/careers-and-training|
 |Theory and Principle|https://www.theoryandprinciple.com/careers|
 |Tyler Technologies|https://www.tylertech.com/careers/job-listings|
-|UNAR Labs|https://www.unarlabs.com/|
+|UNAR Labs|https://www.unarlabs.com/careers|
 |Unum|https://careers.unum.com/global/en/portland-careers|
-|VETRO|https://vetrofibermap.com/|
+|VETRO|https://vetrofibermap.com/careers/|
 |VividCloud|https://www.vividcloud.com/why-vividcloud/careers/|
 |Wedgewood Pharmacy (Blue Rabbit Veterinary)|https://www.wedgewoodpharmacy.com/about-us/working-at-wedgewood-pharmacy.html|
 |WEX|https://www.wexinc.com/about/careers/|
