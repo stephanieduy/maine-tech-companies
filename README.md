@@ -1,5 +1,5 @@
 # maine-tech-companies
-List of tech companies with jobs located in Maine (primarily the greater PWM area).
+List of tech companies with jobs located in Maine (primarily the greater PWM area). See https://github.com/yanirs/established-remote if you're looking for remote-only companies.
 
 |Company Name|Job Board|
 |---|---|
