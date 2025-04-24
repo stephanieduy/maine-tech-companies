@@ -20,7 +20,7 @@ List of tech companies with jobs located in Maine (primarily the greater PWM are
 |Defendify|https://www.defendify.com/company/careers/|
 |ESRI|https://www.esri.com/en-us/about/careers/overview|
 |FieldStack|https://www.fieldstack.com/careers|
-|ForeFlight|https://foreflight.com/about/careers/|
+|ForeFlight|foreflight.com/about/careers/|
 |Forerunner|https://www.withforerunner.com/about#careers|
 |Freeport Metrics|https://www.freeportmetrics.com/careers|
 |Garmin (Delorme)|https://careers.garmin.com/careers-home/jobs|
