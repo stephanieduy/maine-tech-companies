@@ -11,7 +11,7 @@ List of tech companies with jobs located in Maine (primarily the greater PWM are
 |Big Room Studios|https://www.bigroomstudios.com/jobs|
 |BlackHawk Network (Cashstar)|https://blackhawknetwork.com/company/careers|
 |BlueTrace|https://www.blue-trace.com/jobs|
-|Bottomline Technologies|https://www.bottomline.com/us/about/careers/jobs|
+|Bottomline Technologies|https://www.bottomline.com/about/careers/jobs|
 |Capital One Trade Credit|https://www.capitalonecareers.com/|
 |CIEE |https://www.ciee.org/about/work-ciee|
 |Constant|https://www.constant.ai/about#career_section|
