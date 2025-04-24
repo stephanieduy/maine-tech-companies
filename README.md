@@ -35,7 +35,6 @@ List of tech companies with jobs located in Maine (primarily the greater PWM are
 |MedRhythms|https://medrhythms.com/careers/|
 |MPX|https://mpxlinq.com/careers/|
 |New Start Mobile, LLC|https://www.newstartmobile.com/|
-|Peapod Digital Labs|https://peapoddigitallabs.careerswithus.com/|
 |Portland Webworks|https://www.portlandwebworks.com/careers/|
 |PTC (Kepware)|https://ptc.eightfold.ai/careers|
 |Pumpspotting|https://www.pumpspotting.com/jobs|
