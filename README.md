@@ -45,7 +45,7 @@ List of tech companies with jobs located in Maine (primarily the greater PWM are
 |Theory and Principle|https://www.theoryandprinciple.com/careers|
 |Tyler Technologies|https://www.tylertech.com/careers/job-listings|
 |UNAR Labs|https://www.unarlabs.com/careers|
-|Unum|https://careers.unum.com/global/en/portland-careers|
+|Unum|https://www.unumgroup.com/careers/united-states|
 |VETRO|https://vetrofibermap.com/careers/|
 |VividCloud|https://www.vividcloud.com/why-vividcloud/careers/|
 |Wedgewood Pharmacy (Blue Rabbit Veterinary)|https://www.wedgewoodpharmacy.com/about-us/working-at-wedgewood-pharmacy.html|
