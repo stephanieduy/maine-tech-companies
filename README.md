@@ -11,7 +11,6 @@ List of tech companies with jobs located in Maine (primarily the greater PWM are
 |Big Room Studios|https://www.bigroomstudios.com/jobs|
 |BlackHawk Network (Cashstar)|https://blackhawknetwork.com/company/careers|
 |BlueTrace|https://www.blue-trace.com/jobs|
-|Bottomline Technologies|https://www.bottomline.com|
 |Capital One Trade Credit|https://www.capitalonecareers.com/|
 |CIEE |https://www.ciee.org/about/work-ciee|
 |Constant|https://www.constant.ai/about#career_section|
@@ -21,10 +20,9 @@ List of tech companies with jobs located in Maine (primarily the greater PWM are
 |ESRI|https://www.esri.com/en-us/about/careers/overview|
 |FieldStack|https://www.fieldstack.com/careers|
 |ForeFlight|www.foreflight.com/about/careers/|
-|Forerunner|https://www.withforerunner.com/about#careers|
+|Forerunner|https://www.withforerunner.com/careers|
 |Freeport Metrics|https://www.freeportmetrics.com/careers|
 |Garmin (Delorme)|https://careers.garmin.com/careers-home/jobs|
-|Guideline|https://boards.greenhouse.io/guideline|
 |HighByte|https://www.highbyte.com/careers.html|
 |HistoryIT|https://historyit.com/careers/|
 |iBec Creative|https://ibeccreative.com/careers/|
